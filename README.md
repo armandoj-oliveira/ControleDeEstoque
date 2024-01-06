@@ -1,0 +1,1 @@
+<strong>Bem-vindo ao Sistema de Gerenciamento de Estoque! 📦✨</strong> Este programa eficiente utiliza a potência de um dictonary para oferecer uma visão abrangente e organizada do seu estoque. Mantenha o controle de produtos, quantidades disponíveis e atualizações em tempo real. 📊🔧
