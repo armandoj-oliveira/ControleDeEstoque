@@ -1,0 +1,15 @@
+C:\Users\ARMANDO\source\repos\EstoqueControle\EstoqueControle\bin\Debug\net8.0\EstoqueControle.exe
+C:\Users\ARMANDO\source\repos\EstoqueControle\EstoqueControle\bin\Debug\net8.0\EstoqueControle.deps.json
+C:\Users\ARMANDO\source\repos\EstoqueControle\EstoqueControle\bin\Debug\net8.0\EstoqueControle.runtimeconfig.json
+C:\Users\ARMANDO\source\repos\EstoqueControle\EstoqueControle\bin\Debug\net8.0\EstoqueControle.dll
+C:\Users\ARMANDO\source\repos\EstoqueControle\EstoqueControle\bin\Debug\net8.0\EstoqueControle.pdb
+C:\Users\ARMANDO\source\repos\EstoqueControle\EstoqueControle\obj\Debug\net8.0\EstoqueControle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARMANDO\source\repos\EstoqueControle\EstoqueControle\obj\Debug\net8.0\EstoqueControle.AssemblyInfoInputs.cache
+C:\Users\ARMANDO\source\repos\EstoqueControle\EstoqueControle\obj\Debug\net8.0\EstoqueControle.AssemblyInfo.cs
+C:\Users\ARMANDO\source\repos\EstoqueControle\EstoqueControle\obj\Debug\net8.0\EstoqueControle.csproj.CoreCompileInputs.cache
+C:\Users\ARMANDO\source\repos\EstoqueControle\EstoqueControle\obj\Debug\net8.0\EstoqueControle.sourcelink.json
+C:\Users\ARMANDO\source\repos\EstoqueControle\EstoqueControle\obj\Debug\net8.0\EstoqueControle.dll
+C:\Users\ARMANDO\source\repos\EstoqueControle\EstoqueControle\obj\Debug\net8.0\refint\EstoqueControle.dll
+C:\Users\ARMANDO\source\repos\EstoqueControle\EstoqueControle\obj\Debug\net8.0\EstoqueControle.pdb
+C:\Users\ARMANDO\source\repos\EstoqueControle\EstoqueControle\obj\Debug\net8.0\EstoqueControle.genruntimeconfig.cache
+C:\Users\ARMANDO\source\repos\EstoqueControle\EstoqueControle\obj\Debug\net8.0\ref\EstoqueControle.dll
